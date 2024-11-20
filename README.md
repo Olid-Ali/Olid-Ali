@@ -25,7 +25,6 @@ I’m Olid Ali, a graduate in Computer Science & Engineering. I'm seeking a posi
 ### 🎓 **Education**
 - **Bachelor of Science in Computer Science and Engineering**  
   **North South University** | 2020-2024  
-  GPA: 3.23  
 
 ---
 
@@ -76,7 +75,6 @@ I’m Olid Ali, a graduate in Computer Science & Engineering. I'm seeking a posi
 
 ### 📫 **Contact Me**
 - **Email**: olidakash15@gmail.com  
-- **Phone**: +8801980544518  
 - **LinkedIn**: [https://www.linkedin.com/in/olid-ali/](https://www.linkedin.com/in/olid-ali/)  
 
 
